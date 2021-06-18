@@ -1,2 +1,3 @@
 # resume-template-w3Schools
-Resume Template
+### A Resume Template from W3 Schools to build a working resume.
+
